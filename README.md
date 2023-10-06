@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/jmmaglonzo/Social-Proof-Section)
+- Live Site URL: [GithubPages](https://jmmaglonzo.github.io/Social-Proof-Section/)
 
 ## My process
 
