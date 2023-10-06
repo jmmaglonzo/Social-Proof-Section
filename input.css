@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  font-family: "League Spartan", sans-serif;
+}
+
+.flex-container {
+  @apply flex flex-col items-center justify-around py-20 px-8 md:flex-row space-y-8 md:space-y-0;
+}
+
+.star-container {
+  @apply flex  md:flex-row translate-x-0 space-x-2 bg-lightGrayishMagenta w-96 shadow-lg py-4 px-8;
+}
+
+.header {
+  @apply flex items-center space-x-4 text-sm font-bold;
+}
+
+.cards-container {
+  @apply flex flex-col space-y-4 md:space-y-0
+   md:space-x-8 items-center mx-auto md:flex-row;
+}
+
+.cards {
+  @apply bg-veryDarkMagenta max-w-xs text-white rounded-md p-8 space-y-4;
+}
